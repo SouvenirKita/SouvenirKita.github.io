@@ -1,0 +1,13 @@
+.rotate-90
+{
+	transform: rotate(90deg);
+}
+
+.bg-quote
+{
+	background: #c4c4c4;
+}
+.bg-footer
+{
+	background: #36497a;
+}
